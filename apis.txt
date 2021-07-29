@@ -1,0 +1,6 @@
+WHAT IS AN API?
+Application Programming Interface
+
+A way for two systems to talk to each other more easily.
+
+JSON - JavaScript Object Notation
